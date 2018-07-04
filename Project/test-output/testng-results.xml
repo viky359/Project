@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Data has not been entered correctly, kindly input valid data<br>]]>
+    </line>
+    <line>
+      <![CDATA[Excution ended<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="149969" started-at="2018-07-01T14:46:54Z" finished-at="2018-07-01T14:49:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="149969" started-at="2018-07-01T14:46:54Z" finished-at="2018-07-01T14:49:24Z">
+      <class name="com.project.parkmobile.Driver">
+        <test-method status="PASS" signature="DriverExecution()[pri:0, instance:com.project.parkmobile.Driver@47f6473]" name="DriverExecution" duration-ms="149952" started-at="2018-07-01T16:46:54Z" finished-at="2018-07-01T16:49:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Data has not been entered correctly, kindly input valid data<br>]]>
+            </line>
+            <line>
+              <![CDATA[Excution ended<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DriverExecution -->
+      </class> <!-- com.project.parkmobile.Driver -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
